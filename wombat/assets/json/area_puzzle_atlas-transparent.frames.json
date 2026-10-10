@@ -1,0 +1,391 @@
+{
+  "image": "/generated-assets/area_puzzle_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "forest_root_bridge",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 77,
+        "w": 354,
+        "h": 281
+      },
+      "anchor": {
+        "x": 209,
+        "y": 357
+      }
+    },
+    {
+      "name": "forest_seed_bell",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 450,
+        "y": 27,
+        "w": 290,
+        "h": 330
+      },
+      "anchor": {
+        "x": 595,
+        "y": 356
+      }
+    },
+    {
+      "name": "bog_resin_valve",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 834,
+        "y": 36,
+        "w": 307,
+        "h": 332
+      },
+      "anchor": {
+        "x": 988,
+        "y": 367
+      }
+    },
+    {
+      "name": "bog_lily_anchor",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1227,
+        "y": 33,
+        "w": 302,
+        "h": 323
+      },
+      "anchor": {
+        "x": 1378,
+        "y": 355
+      }
+    },
+    {
+      "name": "cave_spore_lantern",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1651,
+        "y": 27,
+        "w": 243,
+        "h": 343
+      },
+      "anchor": {
+        "x": 1773,
+        "y": 369
+      }
+    },
+    {
+      "name": "cave_shadow_nest",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 37,
+        "y": 423,
+        "w": 345,
+        "h": 333
+      },
+      "anchor": {
+        "x": 210,
+        "y": 755
+      }
+    },
+    {
+      "name": "mine_fuse_pillar",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 504,
+        "y": 403,
+        "w": 225,
+        "h": 386
+      },
+      "anchor": {
+        "x": 617,
+        "y": 788
+      }
+    },
+    {
+      "name": "mine_rail_switch",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 414,
+        "w": 342,
+        "h": 347
+      },
+      "anchor": {
+        "x": 984,
+        "y": 760
+      }
+    },
+    {
+      "name": "peaks_wind_gate",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1198,
+        "y": 417,
+        "w": 369,
+        "h": 352
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 768
+      }
+    },
+    {
+      "name": "peaks_iron_anchor",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1600,
+        "y": 430,
+        "w": 345,
+        "h": 324
+      },
+      "anchor": {
+        "x": 1773,
+        "y": 753
+      }
+    },
+    {
+      "name": "ice_slide_bumper",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 33,
+        "y": 826,
+        "w": 353,
+        "h": 305
+      },
+      "anchor": {
+        "x": 210,
+        "y": 1130
+      }
+    },
+    {
+      "name": "ice_crack_switch",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 846,
+        "w": 346,
+        "h": 286
+      },
+      "anchor": {
+        "x": 604,
+        "y": 1131
+      }
+    },
+    {
+      "name": "temple_prism_socket",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 820,
+        "y": 802,
+        "w": 330,
+        "h": 325
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1126
+      }
+    },
+    {
+      "name": "temple_sun_target",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1207,
+        "y": 805,
+        "w": 336,
+        "h": 322
+      },
+      "anchor": {
+        "x": 1375,
+        "y": 1126
+      }
+    },
+    {
+      "name": "desert_sink_marker",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1633,
+        "y": 801,
+        "w": 268,
+        "h": 335
+      },
+      "anchor": {
+        "x": 1767,
+        "y": 1135
+      }
+    },
+    {
+      "name": "desert_crumble_totem",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 34,
+        "y": 1175,
+        "w": 350,
+        "h": 348
+      },
+      "anchor": {
+        "x": 209,
+        "y": 1522
+      }
+    },
+    {
+      "name": "factory_power_node",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 424,
+        "y": 1175,
+        "w": 336,
+        "h": 347
+      },
+      "anchor": {
+        "x": 592,
+        "y": 1521
+      }
+    },
+    {
+      "name": "factory_belt_switch",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 808,
+        "y": 1176,
+        "w": 349,
+        "h": 339
+      },
+      "anchor": {
+        "x": 983,
+        "y": 1514
+      }
+    },
+    {
+      "name": "volcano_raft_lock",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1197,
+        "y": 1221,
+        "w": 353,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1374,
+        "y": 1507
+      }
+    },
+    {
+      "name": "volcano_lava_valve",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1601,
+        "y": 1176,
+        "w": 333,
+        "h": 347
+      },
+      "anchor": {
+        "x": 1768,
+        "y": 1522
+      }
+    }
+  ]
+}

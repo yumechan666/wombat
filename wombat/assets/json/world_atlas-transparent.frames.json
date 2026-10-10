@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/world_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "rare_root",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 45,
+        "y": 41,
+        "w": 333,
+        "h": 326
+      },
+      "anchor": {
+        "x": 212,
+        "y": 366
+      }
+    },
+    {
+      "name": "golden_termite",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 450,
+        "y": 37,
+        "w": 298,
+        "h": 301
+      },
+      "anchor": {
+        "x": 599,
+        "y": 337
+      }
+    },
+    {
+      "name": "leaf_food",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 820,
+        "y": 40,
+        "w": 320,
+        "h": 333
+      },
+      "anchor": {
+        "x": 980,
+        "y": 372
+      }
+    },
+    {
+      "name": "pantry_nest",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1187,
+        "y": 39,
+        "w": 339,
+        "h": 329
+      },
+      "anchor": {
+        "x": 1357,
+        "y": 367
+      }
+    },
+    {
+      "name": "checkpoint_nest",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1572,
+        "y": 40,
+        "w": 361,
+        "h": 327
+      },
+      "anchor": {
+        "x": 1753,
+        "y": 366
+      }
+    },
+    {
+      "name": "pressure_plate",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 38,
+        "y": 469,
+        "w": 345,
+        "h": 258
+      },
+      "anchor": {
+        "x": 211,
+        "y": 726
+      }
+    },
+    {
+      "name": "sealed_gate",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 418,
+        "w": 338,
+        "h": 339
+      },
+      "anchor": {
+        "x": 600,
+        "y": 756
+      }
+    },
+    {
+      "name": "tinka_echidna",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 819,
+        "y": 420,
+        "w": 368,
+        "h": 340
+      },
+      "anchor": {
+        "x": 1003,
+        "y": 759
+      }
+    },
+    {
+      "name": "pip_quokka",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1244,
+        "y": 418,
+        "w": 284,
+        "h": 340
+      },
+      "anchor": {
+        "x": 1386,
+        "y": 757
+      }
+    },
+    {
+      "name": "health_leaf",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1613,
+        "y": 419,
+        "w": 273,
+        "h": 337
+      },
+      "anchor": {
+        "x": 1750,
+        "y": 755
+      }
+    }
+  ]
+}

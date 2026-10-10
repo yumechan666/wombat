@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/enemy_sheet_3-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "cliff_glider_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 28,
+        "y": 36,
+        "w": 373,
+        "h": 295
+      },
+      "anchor": {
+        "x": 215,
+        "y": 330
+      }
+    },
+    {
+      "name": "cliff_glider_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 445,
+        "y": 44,
+        "w": 353,
+        "h": 286
+      },
+      "anchor": {
+        "x": 622,
+        "y": 329
+      }
+    },
+    {
+      "name": "cliff_glider_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 854,
+        "y": 44,
+        "w": 312,
+        "h": 291
+      },
+      "anchor": {
+        "x": 1010,
+        "y": 334
+      }
+    },
+    {
+      "name": "cliff_glider_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1198,
+        "y": 43,
+        "w": 347,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1372,
+        "y": 329
+      }
+    },
+    {
+      "name": "cliff_glider_move_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1590,
+        "y": 40,
+        "w": 327,
+        "h": 293
+      },
+      "anchor": {
+        "x": 1754,
+        "y": 332
+      }
+    },
+    {
+      "name": "cliff_glider_attack_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 71,
+        "y": 433,
+        "w": 287,
+        "h": 273
+      },
+      "anchor": {
+        "x": 215,
+        "y": 705
+      }
+    },
+    {
+      "name": "cliff_glider_attack_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 449,
+        "y": 454,
+        "w": 282,
+        "h": 249
+      },
+      "anchor": {
+        "x": 590,
+        "y": 702
+      }
+    },
+    {
+      "name": "cliff_glider_attack_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 771,
+        "y": 482,
+        "w": 424,
+        "h": 185
+      },
+      "anchor": {
+        "x": 983,
+        "y": 666
+      }
+    },
+    {
+      "name": "cliff_glider_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1199,
+        "y": 440,
+        "w": 380,
+        "h": 252
+      },
+      "anchor": {
+        "x": 1389,
+        "y": 691
+      }
+    },
+    {
+      "name": "cliff_glider_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1587,
+        "y": 417,
+        "w": 328,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1751,
+        "y": 703
+      }
+    },
+    {
+      "name": "frost_dingo_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 44,
+        "y": 838,
+        "w": 338,
+        "h": 281
+      },
+      "anchor": {
+        "x": 213,
+        "y": 1118
+      }
+    },
+    {
+      "name": "frost_dingo_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 427,
+        "y": 853,
+        "w": 359,
+        "h": 268
+      },
+      "anchor": {
+        "x": 607,
+        "y": 1120
+      }
+    },
+    {
+      "name": "frost_dingo_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 828,
+        "w": 366,
+        "h": 266
+      },
+      "anchor": {
+        "x": 1008,
+        "y": 1093
+      }
+    },
+    {
+      "name": "frost_dingo_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1218,
+        "y": 841,
+        "w": 348,
+        "h": 279
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 1119
+      }
+    },
+    {
+      "name": "frost_dingo_move_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1599,
+        "y": 847,
+        "w": 342,
+        "h": 272
+      },
+      "anchor": {
+        "x": 1770,
+        "y": 1118
+      }
+    },
+    {
+      "name": "frost_dingo_attack_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 49,
+        "y": 1205,
+        "w": 333,
+        "h": 305
+      },
+      "anchor": {
+        "x": 216,
+        "y": 1509
+      }
+    },
+    {
+      "name": "frost_dingo_attack_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 1239,
+        "w": 316,
+        "h": 271
+      },
+      "anchor": {
+        "x": 581,
+        "y": 1509
+      }
+    },
+    {
+      "name": "frost_dingo_attack_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 777,
+        "y": 1205,
+        "w": 425,
+        "h": 233
+      },
+      "anchor": {
+        "x": 990,
+        "y": 1437
+      }
+    },
+    {
+      "name": "frost_dingo_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1235,
+        "y": 1222,
+        "w": 328,
+        "h": 289
+      },
+      "anchor": {
+        "x": 1399,
+        "y": 1510
+      }
+    },
+    {
+      "name": "frost_dingo_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1603,
+        "y": 1223,
+        "w": 325,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1766,
+        "y": 1509
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "cliff_glider_move",
+      "frames": [
+        {
+          "name": "cliff_glider_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 28,
+            "y": 36,
+            "w": 373,
+            "h": 295
+          },
+          "anchor": {
+            "x": 215,
+            "y": 330
+          }
+        },
+        {
+          "name": "cliff_glider_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 445,
+            "y": 44,
+            "w": 353,
+            "h": 286
+          },
+          "anchor": {
+            "x": 622,
+            "y": 329
+          }
+        },
+        {
+          "name": "cliff_glider_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 854,
+            "y": 44,
+            "w": 312,
+            "h": 291
+          },
+          "anchor": {
+            "x": 1010,
+            "y": 334
+          }
+        },
+        {
+          "name": "cliff_glider_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1198,
+            "y": 43,
+            "w": 347,
+            "h": 287
+          },
+          "anchor": {
+            "x": 1372,
+            "y": 329
+          }
+        },
+        {
+          "name": "cliff_glider_move_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1590,
+            "y": 40,
+            "w": 327,
+            "h": 293
+          },
+          "anchor": {
+            "x": 1754,
+            "y": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "cliff_glider_attack",
+      "frames": [
+        {
+          "name": "cliff_glider_attack_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 71,
+            "y": 433,
+            "w": 287,
+            "h": 273
+          },
+          "anchor": {
+            "x": 215,
+            "y": 705
+          }
+        },
+        {
+          "name": "cliff_glider_attack_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 449,
+            "y": 454,
+            "w": 282,
+            "h": 249
+          },
+          "anchor": {
+            "x": 590,
+            "y": 702
+          }
+        },
+        {
+          "name": "cliff_glider_attack_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 771,
+            "y": 482,
+            "w": 424,
+            "h": 185
+          },
+          "anchor": {
+            "x": 983,
+            "y": 666
+          }
+        },
+        {
+          "name": "cliff_glider_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1199,
+            "y": 440,
+            "w": 380,
+            "h": 252
+          },
+          "anchor": {
+            "x": 1389,
+            "y": 691
+          }
+        },
+        {
+          "name": "cliff_glider_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1587,
+            "y": 417,
+            "w": 328,
+            "h": 287
+          },
+          "anchor": {
+            "x": 1751,
+            "y": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "frost_dingo_move",
+      "frames": [
+        {
+          "name": "frost_dingo_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 44,
+            "y": 838,
+            "w": 338,
+            "h": 281
+          },
+          "anchor": {
+            "x": 213,
+            "y": 1118
+          }
+        },
+        {
+          "name": "frost_dingo_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 427,
+            "y": 853,
+            "w": 359,
+            "h": 268
+          },
+          "anchor": {
+            "x": 607,
+            "y": 1120
+          }
+        },
+        {
+          "name": "frost_dingo_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 825,
+            "y": 828,
+            "w": 366,
+            "h": 266
+          },
+          "anchor": {
+            "x": 1008,
+            "y": 1093
+          }
+        },
+        {
+          "name": "frost_dingo_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1218,
+            "y": 841,
+            "w": 348,
+            "h": 279
+          },
+          "anchor": {
+            "x": 1392,
+            "y": 1119
+          }
+        },
+        {
+          "name": "frost_dingo_move_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1599,
+            "y": 847,
+            "w": 342,
+            "h": 272
+          },
+          "anchor": {
+            "x": 1770,
+            "y": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "frost_dingo_attack",
+      "frames": [
+        {
+          "name": "frost_dingo_attack_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 49,
+            "y": 1205,
+            "w": 333,
+            "h": 305
+          },
+          "anchor": {
+            "x": 216,
+            "y": 1509
+          }
+        },
+        {
+          "name": "frost_dingo_attack_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 423,
+            "y": 1239,
+            "w": 316,
+            "h": 271
+          },
+          "anchor": {
+            "x": 581,
+            "y": 1509
+          }
+        },
+        {
+          "name": "frost_dingo_attack_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 777,
+            "y": 1205,
+            "w": 425,
+            "h": 233
+          },
+          "anchor": {
+            "x": 990,
+            "y": 1437
+          }
+        },
+        {
+          "name": "frost_dingo_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1235,
+            "y": 1222,
+            "w": 328,
+            "h": 289
+          },
+          "anchor": {
+            "x": 1399,
+            "y": 1510
+          }
+        },
+        {
+          "name": "frost_dingo_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1603,
+            "y": 1223,
+            "w": 325,
+            "h": 287
+          },
+          "anchor": {
+            "x": 1766,
+            "y": 1509
+          }
+        }
+      ]
+    }
+  ]
+}

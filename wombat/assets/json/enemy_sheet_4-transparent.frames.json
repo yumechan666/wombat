@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/enemy_sheet_4-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "mirror_scarab_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 49,
+        "y": 96,
+        "w": 306,
+        "h": 220
+      },
+      "anchor": {
+        "x": 202,
+        "y": 315
+      }
+    },
+    {
+      "name": "mirror_scarab_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 439,
+        "y": 97,
+        "w": 301,
+        "h": 219
+      },
+      "anchor": {
+        "x": 590,
+        "y": 315
+      }
+    },
+    {
+      "name": "mirror_scarab_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 831,
+        "y": 106,
+        "w": 297,
+        "h": 210
+      },
+      "anchor": {
+        "x": 980,
+        "y": 315
+      }
+    },
+    {
+      "name": "mirror_scarab_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1212,
+        "y": 99,
+        "w": 301,
+        "h": 216
+      },
+      "anchor": {
+        "x": 1363,
+        "y": 314
+      }
+    },
+    {
+      "name": "mirror_scarab_move_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1605,
+        "y": 98,
+        "w": 321,
+        "h": 219
+      },
+      "anchor": {
+        "x": 1766,
+        "y": 316
+      }
+    },
+    {
+      "name": "mirror_scarab_attack_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 48,
+        "y": 498,
+        "w": 314,
+        "h": 216
+      },
+      "anchor": {
+        "x": 205,
+        "y": 713
+      }
+    },
+    {
+      "name": "mirror_scarab_attack_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 441,
+        "y": 476,
+        "w": 318,
+        "h": 242
+      },
+      "anchor": {
+        "x": 600,
+        "y": 717
+      }
+    },
+    {
+      "name": "mirror_scarab_attack_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 815,
+        "y": 406,
+        "w": 321,
+        "h": 312
+      },
+      "anchor": {
+        "x": 976,
+        "y": 717
+      }
+    },
+    {
+      "name": "mirror_scarab_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1227,
+        "y": 393,
+        "w": 306,
+        "h": 326
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 718
+      }
+    },
+    {
+      "name": "mirror_scarab_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1603,
+        "y": 499,
+        "w": 311,
+        "h": 219
+      },
+      "anchor": {
+        "x": 1759,
+        "y": 717
+      }
+    },
+    {
+      "name": "sand_lizard_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 40,
+        "y": 861,
+        "w": 355,
+        "h": 231
+      },
+      "anchor": {
+        "x": 218,
+        "y": 1091
+      }
+    },
+    {
+      "name": "sand_lizard_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 428,
+        "y": 859,
+        "w": 349,
+        "h": 233
+      },
+      "anchor": {
+        "x": 603,
+        "y": 1091
+      }
+    },
+    {
+      "name": "sand_lizard_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 860,
+        "w": 352,
+        "h": 227
+      },
+      "anchor": {
+        "x": 993,
+        "y": 1086
+      }
+    },
+    {
+      "name": "sand_lizard_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1202,
+        "y": 861,
+        "w": 357,
+        "h": 234
+      },
+      "anchor": {
+        "x": 1381,
+        "y": 1094
+      }
+    },
+    {
+      "name": "sand_lizard_move_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1594,
+        "y": 861,
+        "w": 347,
+        "h": 232
+      },
+      "anchor": {
+        "x": 1768,
+        "y": 1092
+      }
+    },
+    {
+      "name": "sand_lizard_attack_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 41,
+        "y": 1225,
+        "w": 324,
+        "h": 259
+      },
+      "anchor": {
+        "x": 203,
+        "y": 1483
+      }
+    },
+    {
+      "name": "sand_lizard_attack_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 430,
+        "y": 1212,
+        "w": 326,
+        "h": 272
+      },
+      "anchor": {
+        "x": 593,
+        "y": 1483
+      }
+    },
+    {
+      "name": "sand_lizard_attack_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 845,
+        "y": 1219,
+        "w": 278,
+        "h": 263
+      },
+      "anchor": {
+        "x": 984,
+        "y": 1481
+      }
+    },
+    {
+      "name": "sand_lizard_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1206,
+        "y": 1234,
+        "w": 356,
+        "h": 246
+      },
+      "anchor": {
+        "x": 1384,
+        "y": 1479
+      }
+    },
+    {
+      "name": "sand_lizard_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1595,
+        "y": 1225,
+        "w": 323,
+        "h": 260
+      },
+      "anchor": {
+        "x": 1757,
+        "y": 1484
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "mirror_scarab_move",
+      "frames": [
+        {
+          "name": "mirror_scarab_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 49,
+            "y": 96,
+            "w": 306,
+            "h": 220
+          },
+          "anchor": {
+            "x": 202,
+            "y": 315
+          }
+        },
+        {
+          "name": "mirror_scarab_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 439,
+            "y": 97,
+            "w": 301,
+            "h": 219
+          },
+          "anchor": {
+            "x": 590,
+            "y": 315
+          }
+        },
+        {
+          "name": "mirror_scarab_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 831,
+            "y": 106,
+            "w": 297,
+            "h": 210
+          },
+          "anchor": {
+            "x": 980,
+            "y": 315
+          }
+        },
+        {
+          "name": "mirror_scarab_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1212,
+            "y": 99,
+            "w": 301,
+            "h": 216
+          },
+          "anchor": {
+            "x": 1363,
+            "y": 314
+          }
+        },
+        {
+          "name": "mirror_scarab_move_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1605,
+            "y": 98,
+            "w": 321,
+            "h": 219
+          },
+          "anchor": {
+            "x": 1766,
+            "y": 316
+          }
+        }
+      ]
+    },
+    {
+      "name": "mirror_scarab_attack",
+      "frames": [
+        {
+          "name": "mirror_scarab_attack_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 48,
+            "y": 498,
+            "w": 314,
+            "h": 216
+          },
+          "anchor": {
+            "x": 205,
+            "y": 713
+          }
+        },
+        {
+          "name": "mirror_scarab_attack_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 441,
+            "y": 476,
+            "w": 318,
+            "h": 242
+          },
+          "anchor": {
+            "x": 600,
+            "y": 717
+          }
+        },
+        {
+          "name": "mirror_scarab_attack_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 815,
+            "y": 406,
+            "w": 321,
+            "h": 312
+          },
+          "anchor": {
+            "x": 976,
+            "y": 717
+          }
+        },
+        {
+          "name": "mirror_scarab_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1227,
+            "y": 393,
+            "w": 306,
+            "h": 326
+          },
+          "anchor": {
+            "x": 1380,
+            "y": 718
+          }
+        },
+        {
+          "name": "mirror_scarab_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1603,
+            "y": 499,
+            "w": 311,
+            "h": 219
+          },
+          "anchor": {
+            "x": 1759,
+            "y": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "sand_lizard_move",
+      "frames": [
+        {
+          "name": "sand_lizard_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 40,
+            "y": 861,
+            "w": 355,
+            "h": 231
+          },
+          "anchor": {
+            "x": 218,
+            "y": 1091
+          }
+        },
+        {
+          "name": "sand_lizard_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 428,
+            "y": 859,
+            "w": 349,
+            "h": 233
+          },
+          "anchor": {
+            "x": 603,
+            "y": 1091
+          }
+        },
+        {
+          "name": "sand_lizard_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 817,
+            "y": 860,
+            "w": 352,
+            "h": 227
+          },
+          "anchor": {
+            "x": 993,
+            "y": 1086
+          }
+        },
+        {
+          "name": "sand_lizard_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1202,
+            "y": 861,
+            "w": 357,
+            "h": 234
+          },
+          "anchor": {
+            "x": 1381,
+            "y": 1094
+          }
+        },
+        {
+          "name": "sand_lizard_move_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1594,
+            "y": 861,
+            "w": 347,
+            "h": 232
+          },
+          "anchor": {
+            "x": 1768,
+            "y": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "sand_lizard_attack",
+      "frames": [
+        {
+          "name": "sand_lizard_attack_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 41,
+            "y": 1225,
+            "w": 324,
+            "h": 259
+          },
+          "anchor": {
+            "x": 203,
+            "y": 1483
+          }
+        },
+        {
+          "name": "sand_lizard_attack_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 430,
+            "y": 1212,
+            "w": 326,
+            "h": 272
+          },
+          "anchor": {
+            "x": 593,
+            "y": 1483
+          }
+        },
+        {
+          "name": "sand_lizard_attack_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 845,
+            "y": 1219,
+            "w": 278,
+            "h": 263
+          },
+          "anchor": {
+            "x": 984,
+            "y": 1481
+          }
+        },
+        {
+          "name": "sand_lizard_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1206,
+            "y": 1234,
+            "w": 356,
+            "h": 246
+          },
+          "anchor": {
+            "x": 1384,
+            "y": 1479
+          }
+        },
+        {
+          "name": "sand_lizard_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1595,
+            "y": 1225,
+            "w": 323,
+            "h": 260
+          },
+          "anchor": {
+            "x": 1757,
+            "y": 1484
+          }
+        }
+      ]
+    }
+  ]
+}

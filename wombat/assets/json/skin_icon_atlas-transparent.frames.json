@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/skin_icon_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "bush_ranger",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 35,
+        "y": 35,
+        "w": 330,
+        "h": 333
+      },
+      "anchor": {
+        "x": 200,
+        "y": 367
+      }
+    },
+    {
+      "name": "spore_scout",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 406,
+        "y": 35,
+        "w": 320,
+        "h": 336
+      },
+      "anchor": {
+        "x": 566,
+        "y": 370
+      }
+    },
+    {
+      "name": "ironback_miner",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 781,
+        "y": 36,
+        "w": 345,
+        "h": 338
+      },
+      "anchor": {
+        "x": 954,
+        "y": 373
+      }
+    },
+    {
+      "name": "frost_fuzz",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1181,
+        "y": 50,
+        "w": 348,
+        "h": 325
+      },
+      "anchor": {
+        "x": 1355,
+        "y": 374
+      }
+    },
+    {
+      "name": "sun_mirror",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1572,
+        "y": 41,
+        "w": 353,
+        "h": 333
+      },
+      "anchor": {
+        "x": 1749,
+        "y": 373
+      }
+    },
+    {
+      "name": "dune_drifter",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 38,
+        "y": 426,
+        "w": 322,
+        "h": 343
+      },
+      "anchor": {
+        "x": 199,
+        "y": 768
+      }
+    },
+    {
+      "name": "gearbound",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 399,
+        "y": 426,
+        "w": 334,
+        "h": 340
+      },
+      "anchor": {
+        "x": 566,
+        "y": 765
+      }
+    },
+    {
+      "name": "magma_pepper",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 785,
+        "y": 431,
+        "w": 369,
+        "h": 343
+      },
+      "anchor": {
+        "x": 970,
+        "y": 773
+      }
+    },
+    {
+      "name": "quokka_fan",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1202,
+        "y": 431,
+        "w": 327,
+        "h": 343
+      },
+      "anchor": {
+        "x": 1366,
+        "y": 773
+      }
+    },
+    {
+      "name": "root_guardian",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1568,
+        "y": 411,
+        "w": 344,
+        "h": 367
+      },
+      "anchor": {
+        "x": 1740,
+        "y": 777
+      }
+    }
+  ]
+}

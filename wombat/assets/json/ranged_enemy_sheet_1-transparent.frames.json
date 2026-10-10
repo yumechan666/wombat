@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/ranged_enemy_sheet_1-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "seed_cockatoo_idle_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 66,
+        "y": 26,
+        "w": 270,
+        "h": 335
+      },
+      "anchor": {
+        "x": 201,
+        "y": 360
+      }
+    },
+    {
+      "name": "seed_cockatoo_idle_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 444,
+        "y": 62,
+        "w": 291,
+        "h": 299
+      },
+      "anchor": {
+        "x": 590,
+        "y": 360
+      }
+    },
+    {
+      "name": "seed_cockatoo_idle_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 869,
+        "y": 26,
+        "w": 259,
+        "h": 334
+      },
+      "anchor": {
+        "x": 999,
+        "y": 359
+      }
+    },
+    {
+      "name": "seed_cockatoo_idle_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1264,
+        "y": 58,
+        "w": 263,
+        "h": 303
+      },
+      "anchor": {
+        "x": 1396,
+        "y": 360
+      }
+    },
+    {
+      "name": "seed_cockatoo_idle_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1674,
+        "y": 33,
+        "w": 255,
+        "h": 328
+      },
+      "anchor": {
+        "x": 1802,
+        "y": 360
+      }
+    },
+    {
+      "name": "seed_cockatoo_throw_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 72,
+        "y": 438,
+        "w": 274,
+        "h": 306
+      },
+      "anchor": {
+        "x": 209,
+        "y": 743
+      }
+    },
+    {
+      "name": "seed_cockatoo_throw_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 430,
+        "y": 442,
+        "w": 338,
+        "h": 302
+      },
+      "anchor": {
+        "x": 599,
+        "y": 743
+      }
+    },
+    {
+      "name": "seed_cockatoo_throw_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 803,
+        "y": 441,
+        "w": 402,
+        "h": 303
+      },
+      "anchor": {
+        "x": 1004,
+        "y": 743
+      }
+    },
+    {
+      "name": "seed_cockatoo_throw_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1253,
+        "y": 469,
+        "w": 336,
+        "h": 275
+      },
+      "anchor": {
+        "x": 1421,
+        "y": 743
+      }
+    },
+    {
+      "name": "seed_cockatoo_throw_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1675,
+        "y": 438,
+        "w": 272,
+        "h": 307
+      },
+      "anchor": {
+        "x": 1811,
+        "y": 744
+      }
+    },
+    {
+      "name": "crystal_crab_idle_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 28,
+        "y": 899,
+        "w": 340,
+        "h": 194
+      },
+      "anchor": {
+        "x": 198,
+        "y": 1092
+      }
+    },
+    {
+      "name": "crystal_crab_idle_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 857,
+        "w": 363,
+        "h": 235
+      },
+      "anchor": {
+        "x": 603,
+        "y": 1091
+      }
+    },
+    {
+      "name": "crystal_crab_idle_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 843,
+        "y": 857,
+        "w": 331,
+        "h": 236
+      },
+      "anchor": {
+        "x": 1009,
+        "y": 1092
+      }
+    },
+    {
+      "name": "crystal_crab_idle_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1224,
+        "y": 900,
+        "w": 359,
+        "h": 192
+      },
+      "anchor": {
+        "x": 1404,
+        "y": 1091
+      }
+    },
+    {
+      "name": "crystal_crab_idle_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1627,
+        "y": 888,
+        "w": 324,
+        "h": 204
+      },
+      "anchor": {
+        "x": 1789,
+        "y": 1091
+      }
+    },
+    {
+      "name": "crystal_crab_launch_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 29,
+        "y": 1263,
+        "w": 349,
+        "h": 197
+      },
+      "anchor": {
+        "x": 204,
+        "y": 1459
+      }
+    },
+    {
+      "name": "crystal_crab_launch_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 1191,
+        "w": 364,
+        "h": 268
+      },
+      "anchor": {
+        "x": 603,
+        "y": 1458
+      }
+    },
+    {
+      "name": "crystal_crab_launch_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 816,
+        "y": 1112,
+        "w": 354,
+        "h": 347
+      },
+      "anchor": {
+        "x": 993,
+        "y": 1458
+      }
+    },
+    {
+      "name": "crystal_crab_launch_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1188,
+        "y": 1258,
+        "w": 408,
+        "h": 201
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 1458
+      }
+    },
+    {
+      "name": "crystal_crab_launch_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1609,
+        "y": 1264,
+        "w": 345,
+        "h": 195
+      },
+      "anchor": {
+        "x": 1782,
+        "y": 1458
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "seed_cockatoo_idle",
+      "frames": [
+        {
+          "name": "seed_cockatoo_idle_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 66,
+            "y": 26,
+            "w": 270,
+            "h": 335
+          },
+          "anchor": {
+            "x": 201,
+            "y": 360
+          }
+        },
+        {
+          "name": "seed_cockatoo_idle_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 444,
+            "y": 62,
+            "w": 291,
+            "h": 299
+          },
+          "anchor": {
+            "x": 590,
+            "y": 360
+          }
+        },
+        {
+          "name": "seed_cockatoo_idle_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 869,
+            "y": 26,
+            "w": 259,
+            "h": 334
+          },
+          "anchor": {
+            "x": 999,
+            "y": 359
+          }
+        },
+        {
+          "name": "seed_cockatoo_idle_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1264,
+            "y": 58,
+            "w": 263,
+            "h": 303
+          },
+          "anchor": {
+            "x": 1396,
+            "y": 360
+          }
+        },
+        {
+          "name": "seed_cockatoo_idle_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1674,
+            "y": 33,
+            "w": 255,
+            "h": 328
+          },
+          "anchor": {
+            "x": 1802,
+            "y": 360
+          }
+        }
+      ]
+    },
+    {
+      "name": "seed_cockatoo_throw",
+      "frames": [
+        {
+          "name": "seed_cockatoo_throw_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 72,
+            "y": 438,
+            "w": 274,
+            "h": 306
+          },
+          "anchor": {
+            "x": 209,
+            "y": 743
+          }
+        },
+        {
+          "name": "seed_cockatoo_throw_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 430,
+            "y": 442,
+            "w": 338,
+            "h": 302
+          },
+          "anchor": {
+            "x": 599,
+            "y": 743
+          }
+        },
+        {
+          "name": "seed_cockatoo_throw_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 803,
+            "y": 441,
+            "w": 402,
+            "h": 303
+          },
+          "anchor": {
+            "x": 1004,
+            "y": 743
+          }
+        },
+        {
+          "name": "seed_cockatoo_throw_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1253,
+            "y": 469,
+            "w": 336,
+            "h": 275
+          },
+          "anchor": {
+            "x": 1421,
+            "y": 743
+          }
+        },
+        {
+          "name": "seed_cockatoo_throw_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1675,
+            "y": 438,
+            "w": 272,
+            "h": 307
+          },
+          "anchor": {
+            "x": 1811,
+            "y": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "crystal_crab_idle",
+      "frames": [
+        {
+          "name": "crystal_crab_idle_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 28,
+            "y": 899,
+            "w": 340,
+            "h": 194
+          },
+          "anchor": {
+            "x": 198,
+            "y": 1092
+          }
+        },
+        {
+          "name": "crystal_crab_idle_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 421,
+            "y": 857,
+            "w": 363,
+            "h": 235
+          },
+          "anchor": {
+            "x": 603,
+            "y": 1091
+          }
+        },
+        {
+          "name": "crystal_crab_idle_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 843,
+            "y": 857,
+            "w": 331,
+            "h": 236
+          },
+          "anchor": {
+            "x": 1009,
+            "y": 1092
+          }
+        },
+        {
+          "name": "crystal_crab_idle_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1224,
+            "y": 900,
+            "w": 359,
+            "h": 192
+          },
+          "anchor": {
+            "x": 1404,
+            "y": 1091
+          }
+        },
+        {
+          "name": "crystal_crab_idle_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1627,
+            "y": 888,
+            "w": 324,
+            "h": 204
+          },
+          "anchor": {
+            "x": 1789,
+            "y": 1091
+          }
+        }
+      ]
+    },
+    {
+      "name": "crystal_crab_launch",
+      "frames": [
+        {
+          "name": "crystal_crab_launch_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 29,
+            "y": 1263,
+            "w": 349,
+            "h": 197
+          },
+          "anchor": {
+            "x": 204,
+            "y": 1459
+          }
+        },
+        {
+          "name": "crystal_crab_launch_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 421,
+            "y": 1191,
+            "w": 364,
+            "h": 268
+          },
+          "anchor": {
+            "x": 603,
+            "y": 1458
+          }
+        },
+        {
+          "name": "crystal_crab_launch_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 816,
+            "y": 1112,
+            "w": 354,
+            "h": 347
+          },
+          "anchor": {
+            "x": 993,
+            "y": 1458
+          }
+        },
+        {
+          "name": "crystal_crab_launch_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1188,
+            "y": 1258,
+            "w": 408,
+            "h": 201
+          },
+          "anchor": {
+            "x": 1392,
+            "y": 1458
+          }
+        },
+        {
+          "name": "crystal_crab_launch_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1609,
+            "y": 1264,
+            "w": 345,
+            "h": 195
+          },
+          "anchor": {
+            "x": 1782,
+            "y": 1458
+          }
+        }
+      ]
+    }
+  ]
+}

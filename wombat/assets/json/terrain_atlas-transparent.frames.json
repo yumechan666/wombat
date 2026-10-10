@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/terrain_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "forest_soil",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 50,
+        "y": 42,
+        "w": 324,
+        "h": 326
+      },
+      "anchor": {
+        "x": 212,
+        "y": 367
+      }
+    },
+    {
+      "name": "bog_moss",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 438,
+        "y": 41,
+        "w": 321,
+        "h": 327
+      },
+      "anchor": {
+        "x": 599,
+        "y": 367
+      }
+    },
+    {
+      "name": "cave_stone",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 45,
+        "w": 319,
+        "h": 323
+      },
+      "anchor": {
+        "x": 984,
+        "y": 367
+      }
+    },
+    {
+      "name": "mine_rock",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1212,
+        "y": 49,
+        "w": 317,
+        "h": 320
+      },
+      "anchor": {
+        "x": 1371,
+        "y": 368
+      }
+    },
+    {
+      "name": "peak_cliff",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1594,
+        "y": 30,
+        "w": 322,
+        "h": 338
+      },
+      "anchor": {
+        "x": 1755,
+        "y": 367
+      }
+    },
+    {
+      "name": "snow_ice",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 52,
+        "y": 427,
+        "w": 320,
+        "h": 325
+      },
+      "anchor": {
+        "x": 212,
+        "y": 751
+      }
+    },
+    {
+      "name": "temple_sandstone",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 440,
+        "y": 429,
+        "w": 317,
+        "h": 323
+      },
+      "anchor": {
+        "x": 599,
+        "y": 751
+      }
+    },
+    {
+      "name": "desert_sand",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 826,
+        "y": 427,
+        "w": 317,
+        "h": 325
+      },
+      "anchor": {
+        "x": 985,
+        "y": 751
+      }
+    },
+    {
+      "name": "factory_metal",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1212,
+        "y": 429,
+        "w": 317,
+        "h": 324
+      },
+      "anchor": {
+        "x": 1371,
+        "y": 752
+      }
+    },
+    {
+      "name": "volcanic_basalt",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1598,
+        "y": 429,
+        "w": 317,
+        "h": 323
+      },
+      "anchor": {
+        "x": 1757,
+        "y": 751
+      }
+    }
+  ]
+}
